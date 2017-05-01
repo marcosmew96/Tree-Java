@@ -121,7 +121,7 @@ public class Principal {
 			}
 			else if(escolhe == 3){
 				
-				
+				break;
 				
 			}
 		}
